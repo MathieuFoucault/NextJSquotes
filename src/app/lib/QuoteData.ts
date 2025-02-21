@@ -25,15 +25,23 @@ const quotes = [
 	},
 	{
 		text: "Damien : comme l'a dit un grand sage...",
-		image: "/images/7.PNG",
-	},
-	{
-		text: "Dernière pr : 17h30.",
 		image: "/images/8.PNG",
 	},
 	{
+		text: "Dernière PR : 17h30.",
+		image: "/images/7.PNG",
+	},
+	{
 		text: "Je ne vais pas vous lâcher.",
+		image: "/images/6.PNG",
+	},
+	{
+		text: "Si je vous enbarque là dedans, je vais vous casser la tête.",
 		image: "/images/9.PNG",
+	},
+	{
+		text: "Le chat de ses morts !!",
+		image: "/images/3.PNG",
 	},
 ];
 
